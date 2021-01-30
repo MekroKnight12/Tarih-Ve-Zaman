@@ -139,7 +139,7 @@ Tarihi olaylar ele alınırken tarihi bilgilerin kendi döneminin şartlarına g
 
 Eğer bir tarihi olay ele alınırken kendi döneminin şartlarına göre değerlendirilmezse bu [anakronizm](https://tr.wikipedia.org/wiki/Anakronizm) olur.
 
-#
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 İnsanlar, günlük yaşamlarını kolaylaştırmak için zamanı bölümlere ayırmışlardır. Her Toplum kendine özgü bir takvim oluştururken yaşamlarını en çok etkileyen olayları takvimlerinin başlangıcı kabul etmişlerdir.
 
