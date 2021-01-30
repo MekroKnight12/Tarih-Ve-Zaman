@@ -245,9 +245,9 @@ Kaçıncı yarıyıl olduğunu da bulduktan sonra en son olarak kaçıncı çeyr
 
 <br>
 
-*2020 = M.S 21.Yüzyıl
-2020 = M.S 21.Yüzyılın 1.Yarısı
-2020 = M.S 21.Yüzyılın 1.Yarısının 1.Çeyreği*
+<i>2020 = M.S 21.Yüzyıl</i>
+<i>2020 = M.S 21.Yüzyılın 1.Yarısı</i>
+<i>2020 = M.S 21.Yüzyılın 1.Yarısının 1.Çeyreği</i>
 
 <br><br>
 
