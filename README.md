@@ -142,21 +142,13 @@ Eğer bir tarihi olay ele alınırken kendi döneminin şartlarına göre değer
 #
 
 İnsanlar, günlük yaşamlarını kolaylaştırmak için zamanı bölümlere ayırmışlardır. Her Toplum kendine özgü bir takvim oluştururken yaşamlarını en çok etkileyen olayları takvimlerinin başlangıcı kabul etmişlerdir.
-
-##
-
+&nbsp;
 <i>"Takvimi nasıl tarif etsem?"</i>
-
-##
-
+&nbsp;
 "Takvim" zamanı "çağ, yıl, ay, hafta, gün" şeklinde dilimlere bölmeye yarayan bir çizelgedir.
-
-##
-
+&nbsp;
 <i>"Ne işe yarar bu takvim?"</i>
-
-##
-
+&nbsp;
 "Zaman" ya da "vakit" insan için çok önemlidir. Bu çok değerli sermayeyi en güzel şekilde kullanabilmek için zamanı ölçümlemek ve vakti organize edip buna göre hayatı düzenlemek önemlidir. İşte bu noktada takvim, saat gibi araçlar insanın hayatında önem kazanır
 
 <br>
@@ -212,9 +204,7 @@ Eğer bir tarihi olay ele alınırken kendi döneminin şartlarına göre değer
 ![06](06.png)
 
 Dört rakamlı bir tarihin ilk iki rakamına 1 eklenerek kaçıncı yüzyıl olduğu bulunur.
-
-##
-
+&nbsp;
 ![07](07.png)
 
 Eğer milattan öncesini bulmak istiyorsak öncelikle Yüzyılı bulmamız gerekiyor:
