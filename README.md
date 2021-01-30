@@ -103,3 +103,31 @@ Zaman içinde yeryüzündeki insan faaliyetleri, farklı etkilerle meydana gelen
 <ul>
 	Olayın geçtiği döneme yakın ya da o dönem kaynaklarından faydalanılarak meydana getirilen eserlerdir.
 </ul>
+
+1. **Yazılı Kaynaklar:** Ferman, mühür, para, gazete, hatıra vb.
+
+2. **Sözlü Kaynaklar:** Destan, efsane, hikâye, şiir vb.
+
+3. **Kalıntılar:** Arkeolojik buluntular; taş, toprak, kemik, madenden yapılmış eşyalar, mezarlar vb.
+
+4. **Çizili, sesli ve görüntülü kaynaklar:** CD, film, fotoğraf, resim vb.
+
+<br>
+
+## Tarihin Biliminin Diğer Bilimlerle İlişkisi
+
+<br>
+
+![04](04.png)
+
+<br>
+
+## Neden Tarih?
+
+### Tarih Bilimi Bize Ne Kazandırır?
+
+- <b>Araştırma</b> ve kanıt kullanma becerisi
+- <b>Eleştirel</b> düşünme, sorgulama ve empati becerisi
+- Çok boyutlu düşünme yeteneğimizi geliştirme
+- Geçmişimizi öğrneme
+- Günümüzü anlama, geleceğe yönelik planlar yapma
