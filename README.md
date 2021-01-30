@@ -15,9 +15,9 @@ Zaman içinde yeryüzündeki insan faaliyetleri, farklı etkilerle meydana gelen
 
 </br>
 
-![Screenshot from 2021-01-30 14-05-00.png](:/7aa9dbcff2b34ab7bf332fa255c5dd94)
+![01](01.png)
 
-![Screenshot from 2021-01-30 14-07-06.png](:/a8ceb799b23b49d3bedccaa3af8fe0f1)
+![02](02.png)
 
 <br>
 
@@ -31,7 +31,7 @@ Zaman içinde yeryüzündeki insan faaliyetleri, farklı etkilerle meydana gelen
 <font style = "color:#FA8072">*Örn:*</font> [Sömürgeciliğin başlaması](https://tr.wikipedia.org/wiki/S%C3%B6m%C3%BCrgecilik), [İslamiyet'in Türkler arasında yayılması](https://tr.wikipedia.org/wiki/T%C3%BCrklerin_%C4%B0slam%27a_ge%C3%A7i%C5%9Fi)
 <br>
 
-![Screenshot from 2021-01-30 14-25-38.png](:/56223c306a714beeaf7f6121b93cbb9c)
+![03](03.png)
 
 <br>
 
