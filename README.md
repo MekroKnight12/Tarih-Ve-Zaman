@@ -13,7 +13,7 @@
 ## Tarihin Konusu
 Zaman içinde yeryüzündeki insan faaliyetleri, farklı etkilerle meydana gelen değişimler ve insan eylemlerinin sonucunda ortaya çıkan eserler...
 
-</br>
+<br>
 
 ![01](01.png)
 
@@ -24,11 +24,11 @@ Zaman içinde yeryüzündeki insan faaliyetleri, farklı etkilerle meydana gelen
 ## Tarih Olay ve Olgu
 **Olay** hayat ve içerisinde tek meydana gelen değişmeler...
 
-<font style = "color:#FA8072">*Örn:*</font> [1071](https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi), [1176](https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)
+<font style = "color:#FA8072"><i>Örn:</i></font> [1071](https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi), [1176](https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)
 
 **Olgu** aynı türdeki olayları bir bütün olarak anlatmak için kullanılan kavram...
 
-<font style = "color:#FA8072">*Örn:*</font> [Sömürgeciliğin başlaması](https://tr.wikipedia.org/wiki/S%C3%B6m%C3%BCrgecilik), [İslamiyet'in Türkler arasında yayılması](https://tr.wikipedia.org/wiki/T%C3%BCrklerin_%C4%B0slam%27a_ge%C3%A7i%C5%9Fi)
+<font style = "color:#FA8072"><i>Örn:</i></font> [Sömürgeciliğin başlaması](https://tr.wikipedia.org/wiki/S%C3%B6m%C3%BCrgecilik), [İslamiyet'in Türkler arasında yayılması](https://tr.wikipedia.org/wiki/T%C3%BCrklerin_%C4%B0slam%27a_ge%C3%A7i%C5%9Fi)
 <br>
 
 ![03](03.png)
